@@ -8,3 +8,7 @@ python-pptx
 pypandoc
 gunicorn
 PyPDF2
+reportlab
+pandas
+openpyxl
+python-docx
