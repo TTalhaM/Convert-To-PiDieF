@@ -5,7 +5,6 @@ jinja2
 pymupdf
 python-magic
 python-pptx
-pypandoc
 gunicorn
 PyPDF2
 reportlab
